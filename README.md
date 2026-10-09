@@ -1,7 +1,9 @@
-# Hi, I'm a 3rd Year IT Student 👋
+# Hi I'm Franz, a 3rd Year IT Student 👋
 
 💻 Aspiring Database Engineer & Information Assurance Specialist
+
 🌱 Currently learning programming, databases, and cybersecurity.
+
 📫 Always open to learning new things and collaborating on projects!
 
 *Code Exp:* VS Code/Studio, Cisco Packet Tracer, Figma, Canva, Python, CSS, HTML, Vue.js, MSSQL
