@@ -4,7 +4,7 @@
 🌱 Currently learning programming, databases, and cybersecurity.
 📫 Always open to learning new things and collaborating on projects!
 
-*Code Exp: VS Code/Studio, Cisco Packet Tracer, Figma, Canva, Python, CSS, HTML, Vue.js, MSSQL
+*Code Exp:* VS Code/Studio, Cisco Packet Tracer, Figma, Canva, Python, CSS, HTML, Vue.js, MSSQL
 
 <!---
 ancypng/ancypng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
