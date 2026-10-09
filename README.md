@@ -1,8 +1,8 @@
 # Hi I'm Franz, a 3rd Year IT Student 👋
 
-💻 Aspiring Database Engineer & Information Assurance Specialist
+💻 Aspiring Database Engineer
 
-🌱 Currently learning programming, databases, and cybersecurity.
+🌱 Currently learning programming, databases, and network.
 
 📫 Always open to learning new things and collaborating on projects!
 
